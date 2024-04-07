@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
+    "title": "PRODUCT INVENTORY",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": ["Authentication with JWT tokens","MongoDB server for Database","REST Apis","Image Uplaod feature with Multer Image Module"],
+    "skills": ["Nest.js", "JWT"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/mayankek01/FS_Product"
   },
   {
-    "title": "Project B",
+    "title": "FOODIES CORNER",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": ["A responsive resturant website made with reatc.js and tailwindCss","Containerized the Reactapp using Docker for production build using Node and nginx Images","Uploaded Using Github Pages"],
+    "skills": ["React", "Tailwindcss"],
+    "demo": "https://mayankek01.github.io/Foodie-s-Corner/",
+    "source": "https://github.com/mayankek01/Foodie-s-Corner"
   }
 ]

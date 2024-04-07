@@ -1,29 +1,23 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Software Developer",
+    "organisation": "Tekroi",
+    "startDate": "Aug, 2023",
+    "endDate": "Jan, 2024",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Spearheaded the development of the website, handling the project single-handedly fromconcept to development.",
+      "implemented Redux to optimize state management and ensured uninterrupted data persistence using redux-persist, enhancing overall project functionality",
+      "Discussed and finalized the API contracts with the Backend team for smooth integration end to end",
+      "Additionally , designed UI/UX elements to meet the client's specific reuirements"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/tekroi.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Chaoswale",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Played a pivotal during the project's initiation, devising comprehensive tech roadmaps for both prototype and full Scale deployment stages, including schema design and backend processes pipeline for efficient game development automation. ", "Implemented agile methodologies to drive iterative frontend development, continuously testing and refining designs before deployment.","Collaborated closely with cross-functional teams of designers and marketers, seamlessly integrating their feedback and recommendations into the product development lifecycle."],
+    "imageSrc": "history/Chaoswale.jpeg"
   }
 ]
