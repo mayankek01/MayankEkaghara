@@ -10,7 +10,7 @@
   {
     "title": "FOODIES CORNER",
     "imageSrc": "projects/project.png",
-    "description": ["A responsive resturant website made with reatc.js and tailwindCss","Containerized the Reactapp using Docker for production build using Node and nginx Images","Uploaded Using Github Pages"],
+    "description": ["A responsive resturant website made with reatc.js and tailwindCss","Containerized the Reactapp using Docker for production build using Node and nginx Images"],
     "skills": ["React", "Tailwindcss"],
     "demo": "https://mayankek01.github.io/Foodie-s-Corner/",
     "source": "https://github.com/mayankek01/Foodie-s-Corner"
