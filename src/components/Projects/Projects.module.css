@@ -17,10 +17,10 @@
 .projects {
   margin-top: 37px;
   display: flex;
+  justify-content: space-evenly;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
   gap: 15px;
   width: 100%;
 }
