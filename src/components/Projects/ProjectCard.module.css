@@ -22,7 +22,7 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 15px;
   font-weight: 400;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 15px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
