@@ -16,9 +16,14 @@ export const Hero = () => {
           as a Software Developer, with expertise in coding, problem-solving,
           and collaboration within dynamic teams.
         </p>
-        <a href="mailto:mayankekaghara.me@email.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div className={styles.buttons}>
+          <a
+            href="mailto:mayankekaghara.me@email.com"
+            className={styles.contactBtn}
+          >
+            Contact Me
+          </a>
+        </div>
       </div>
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
