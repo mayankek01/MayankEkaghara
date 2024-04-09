@@ -15,8 +15,6 @@ export const Contact = () => {
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
           <a
             href="mailto:mayankekaghara.me@email.com"
-            target="_blank"
-            rel="noopener noreferrer"
           >
             mayankekaghara.me@email.com
           </a>
